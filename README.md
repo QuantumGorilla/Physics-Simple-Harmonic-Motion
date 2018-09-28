@@ -1,2 +1,2 @@
 # Physics-Simple-Harmonic-Motion
-Vista gráfica de un movimiento armónico simple 
+Movimiento armonico simple visto desde un solo eje, en este caso visto desde el eje x.
